@@ -327,7 +327,7 @@ It consists of setting up common tools, apps,  python and ruby development setup
 	 #install reshift
 	 sudo apt-get install redshift redshift-gtk
 	 #launch redshift
-	 reshift
+	 redshift
 ---
 #Node
 ## Remove any previously installed packages
